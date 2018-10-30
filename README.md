@@ -1,7 +1,7 @@
 Initialisatie van Tentamen Repository Bi5a-T_1819
-# Naam Student:
-## Studentnummer:
-## Klas:
+# Naam Student: Sophie Hospel
+## Studentnummer: 581613
+## Klas: BIN-2a
 
 ## Beoordeling Student
 | Onderdeel  | Max Score | Student | Docent |
